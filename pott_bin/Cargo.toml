@@ -1,0 +1,10 @@
+[package]
+name = "pott_bin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex-string = "0.1.0"
+pott_core = { path="../pott_core" }

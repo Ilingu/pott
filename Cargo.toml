@@ -1,0 +1,3 @@
+[workspace]
+members = ["pott_core", "pott_bin"]
+resolver = "2"
